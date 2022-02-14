@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkiotsharp=self.webpackChunkiotsharp||[]).push([[535],{5641:function(e){e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"\ufffd\ufffd\u04bb\ufffd\ufffd\ufffd\u0135\ufffd\ufffd\ufffd\ufffd\ufffd","permalink":"/blog/first-version-doc"}]}')}}]);
