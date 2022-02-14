@@ -8,12 +8,12 @@
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[��һ���ĵ�����]]></title>
+            <title><![CDATA[第一版文档发布]]></title>
             <link>https://docs.iotsharp.io/blog/first-version-doc</link>
             <guid>first-version-doc</guid>
             <pubDate>Mon, 14 Feb 2022 00:00:00 GMT</pubDate>
-            <description><![CDATA[2022��2��14�����˽ڣ� ���Ƿ����˵�һ���ĵ��� �������ر��л����������(535915157@qq.com)�� �Ƽ��˲���ƽ̨�� Ҳʵ���˵�һ���̡̳�]]></description>
-            <content:encoded><![CDATA[<p>2022��2��14�����˽ڣ� ���Ƿ����˵�һ���ĵ��� �������ر��л����������(<a href="mailto:535915157@qq.com" target="_blank" rel="noopener noreferrer">535915157@qq.com</a>)�� �Ƽ��˲���ƽ̨�� Ҳʵ���˵�һ���̡̳�</p>]]></content:encoded>
+            <description><![CDATA[2022年2月14日情人节， 我们发布了第一版文档， 在这里特别感谢王海东先生(535915157@qq.com)， 推荐了博客平台， 也实现了第一个教程。]]></description>
+            <content:encoded><![CDATA[<p>2022年2月14日情人节， 我们发布了第一版文档， 在这里特别感谢王海东先生(<a href="mailto:535915157@qq.com" target="_blank" rel="noopener noreferrer">535915157@qq.com</a>)， 推荐了博客平台， 也实现了第一个教程。</p>]]></content:encoded>
             <category>iotsharp</category>
         </item>
     </channel>
